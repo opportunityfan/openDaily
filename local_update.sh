@@ -1,1 +1,0 @@
-git clone https://github.com/opportunityfan/openDaily.git
