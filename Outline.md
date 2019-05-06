@@ -17,6 +17,7 @@ The issue was desigend by stu. in G102 in HLGZ/HNGZ.
 [1] 女主 凉宫雅惠 Suzumiya Nagisa
 
 `原文`:涼宮なぎさ
+
 `罗马音`: Suzumiya Nagisa
 
 `体格特征`: 齐肩直黑发, 棕瞳, 其他指标在`标致`范围, 总体评价是`可爱`
@@ -42,6 +43,7 @@ The issue was desigend by stu. in G102 in HLGZ/HNGZ.
 [2] 男主 菅尾直彦 Kanwei Naohiko
 
 `原文`: 菅尾直彦
+
 `罗马音`: Kanwei Naohiko
 
 `人格`: 典型的居家性格, 是个既无个性，亦无特殊爱好的氮气 $N_2$ 般的男主角, 三观端正
