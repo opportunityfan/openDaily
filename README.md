@@ -19,14 +19,22 @@
 
 # Staff
 
-**监制&企划：** Sagimune
+**监制&企划：**
 
-**剧本$大人：** Wow_Goodjob
+Sagimune
 
-**设定&支线：** VirtualHawthorn
+**剧本$大人：**
 
-**脚本&支线：** Opportunityfan
+Wow_Goodjob
+
+**设定&支线：**
+
+VirtualHawthorn
+
+**脚本&支线：**
+
+Opportunityfan
 
 # 最后
 
-感谢各位的倾力支持
+感谢各位的倾力支持!
