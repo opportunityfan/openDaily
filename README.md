@@ -21,7 +21,7 @@
 
 **监制&企划：** Sagimune
 
-**剧本大人：**    Wow_Goodjob
+**剧本$大人：** Wow_Goodjob
 
 **设定&支线：** VirtualHawthorn
 
