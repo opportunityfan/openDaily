@@ -15,4 +15,14 @@
 3. 代码规范
 3.1 统一 **4 空格**缩进
 3.2 统一人名命名规范和颜色
-4. 由 sagimune 统筹
+4. 由 Sagimune 统筹
+
+# Staff
+
+**监制&企划：** Sagimune
+
+**剧本大人：**    Wow_Goodjob
+
+**设定&支线：** VirtualHawthorn
+
+**脚本&支线：** Opportunityfan
