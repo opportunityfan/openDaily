@@ -114,6 +114,8 @@ The issue was desigend by stu. in G102 in HLGZ/HNGZ.
 
 ### TE`1` 凉宫雅惠线
 
+[赶工ing]
+
 ### TE`2` 菅尾薰线 不真实的快乐 Unrealistical Paradise
 
 [正式开坑剧本]
