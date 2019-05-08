@@ -72,7 +72,7 @@ The issue was desigend by stu. in G102 in HLGZ/HNGZ.
 
 ---
 
-[3] 特殊女生 菅尾薰 Kanwei Kanae
+[3] 特殊女生 菅尾薰 Kanwei Kaoru
 
 `原文`: 菅尾かおる
 
