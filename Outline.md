@@ -8,7 +8,7 @@ The issue was desigend by stu. in G102 in HLGZ/HNGZ.
 
 本`文字游戏`是由`本院文学社`下属部门开发的开源项目,由`github`托管.
 
-感谢`Ren'Py`引擎
+感谢`Ren'Py`引擎提供的底层支持
 
 ### 人设大纲
 
