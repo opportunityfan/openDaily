@@ -133,3 +133,11 @@ The issue was desigend by stu. in G102 in HLGZ/HNGZ.
 ### BE`3` 惨祸线 - 逐渐失去的意识
 
 ### BE`4` 惨祸线
+
+# Comments by Sagimune
+
+1. `相对擅长`不是很重要
+
+2. 女三name待协商
+
+3. 剧本一定得有纸质搞，交付剧本大人修改 @支线两人
