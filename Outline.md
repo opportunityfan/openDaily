@@ -141,3 +141,5 @@ The issue was desigend by stu. in G102 in HLGZ/HNGZ.
 2. 女三name待协商
 
 3. 剧本一定得有纸质搞，交付剧本大人修改 @支线两人
+
+4. 渐冻症是可行的
