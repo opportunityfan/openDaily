@@ -4,6 +4,10 @@
 
 本院文学社作品`Daily`
 
+![39commits.png](https://img.imjad.cn/images/2019/05/10/39commits.png)
+
+**感谢你的贡献**
+
 # 请各位巨佬们不要懒工怠政，电竞主义事业需要流血流泪！！
 
 # 前期制作阶段
