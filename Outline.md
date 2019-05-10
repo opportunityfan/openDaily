@@ -94,9 +94,11 @@ The issue was desigend by stu. in G102 in HLGZ/HNGZ.
 
 ---
 
-[4] 青梅竹马?! 优米 Youmi
+[4] 青梅竹马?! 白石凛纪 Shiraishi Rinnori
 
-`原文`: Youmi
+`原文`: 白石凛紀
+
+`罗马音`: Shiraishi Rinnori
 
 `人格`: 
 
