@@ -44,10 +44,6 @@ VirtualHawthorn
 
 Opportunityfan
 
-# 最后
-
-感谢各位的倾力支持!
-
 # Issue
 
 1. **push 自动添加时间**
