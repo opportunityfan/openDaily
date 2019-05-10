@@ -122,6 +122,10 @@ The issue was desigend by stu. in G102 in HLGZ/HNGZ.
 
 [正式开坑剧本]
 
+### TE`3` 白石凛紀线
+
+[开坑。。。]
+
 ### HE`1` 凉宫雅惠线
 
 ### NE`1` 菅尾薰线 - 不真实的意识
