@@ -1,0 +1,5 @@
+#include<bits/stdc++.h>
+using namespace std;
+int n=0,x=0,y=0;
+string s;
+for(i=n-s;i<n;i++)t+=(i==n-y-1)^s[i]^48;
