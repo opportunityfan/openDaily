@@ -43,11 +43,3 @@ VirtualHawthorn
 **脚本&支线：**
 
 Opportunityfan
-
-# Issue
-
-1. **push 自动添加时间**
-
-   目前暂时完成不了，请各位大佬别改版本了，改来改去超麻烦
-
-   *by Sagimune*
