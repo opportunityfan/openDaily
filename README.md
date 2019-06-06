@@ -37,9 +37,6 @@ Wow_Goodjob
 
 VirtualHawthorn
 
-1. 负责`薰`线
-2. 对大纲和故事人设负责
-
 **脚本&支线：**
 
 Opportunityfan
